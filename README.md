@@ -2,7 +2,7 @@
 
 
 
-<h2 align="center">🌈 Team Project 🌈</h3>
+<h2 align="left">🌈 Team Project 🌈</h3>
 
 ### [Git Issue](https://github.com/Frontend-TEAM1/React_Open-API_project)  
 ### [Movie Trailer](https://github.com/Frontend-TEAM1/React_Movie_Trailer_project)  
@@ -13,9 +13,9 @@
 
 ---
 
-<h2 align="center">📚 Tech Stack 📚</h3>
+<h2 align="left">📚 Tech Stack 📚</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp 
