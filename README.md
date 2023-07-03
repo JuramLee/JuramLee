@@ -1,20 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Juram&fontSize=80&fontAlignY=35&animation=twinkling&desc=안녕하세요.%20이주람의%20개인%20레포지토리입니다.&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Juram&fontSize=60&fontAlignY=35&animation=twinkling&desc=안녕하세요.%20이주람의%20개인%20레포지토리입니다.&descAlignY=50)
 
 
-<h3 align="left">⚡ Team-project</h3>
+<div align="center"><h2>⚡ Team-project</h2></div>
 
-* [ZoopZoop](https://github.com/JuramLee/ZoopzoopMarket)
-* [Movie Trailer](https://github.com/JuramLee/Movie_Trailer_project)  
-* [Git Issue](https://github.com/Frontend-TEAM1/React_Open-API_project)  
-* [Search](https://github.com/Frontend-TEAM1/Search)  
+<div align="center">
+  
+[ZoopZoop](https://github.com/JuramLee/ZoopzoopMarket)   
+[Movie Trailer](https://github.com/JuramLee/Movie_Trailer_project)  
+[Git Issue](https://github.com/Frontend-TEAM1/React_Open-API_project)  
+[Search](https://github.com/Frontend-TEAM1/Search)  
+</div>
 
-<h3 align="left">📗 Blog</h3>
+<br />
 
+<h2 align="center">📗 Blog</h2>
+<div align="center">
+  
 **[JuraMemo](https://juramemo.tistory.com)**
+</div>
+<br />
 
----
-
-<h3 align="left">📚 Tech Stack</h3>
+<h2 align="center">📚 Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
