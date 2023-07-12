@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hi,%20I'm%20Juram&fontSize=60&fontAlignY=40&animation=twinkling&desc=프론트엔드%20개발자%20이주람의%20개인%20레포지토리입니다%20:D&descAlignY=70)
 
-<div><h2>⚡ Team-project</h2></div>
+<div><h2>&lt TEAM PROJECT &gt</h2></div>
 
 <div>
   
@@ -9,14 +9,14 @@
 
 <br />
 
-<h2>📗 Blog</h2>
+<h2>&lt BLOG &gt</h2>
 <div>
   
  | **[JuraMemo](https://juramemo.tistory.com)** | 
 </div>
 <br />
 
-<h2>📚 Tech Stack</h2>
+<h2>&lt TECH STACK &gt</h2>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
